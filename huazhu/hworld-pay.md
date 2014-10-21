@@ -33,7 +33,12 @@ vno - 卡号
 --------
 
 billid - 财务编号？  
-guarantee type - 担保类型  
+###guarantee type - 担保类型  
+
+####积分担保和支付担保
+
+客人用积分或储值金担保订单，并在到点后可以选择改用现金或其他支付渠道支付，之后积分或储值金返还
+
 paytype - 支付方式  
 guarantee amount -  担保金额  
 payok - 是否支付成功  
